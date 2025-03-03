@@ -1,5 +1,8 @@
 # 👋 Hey, I'm Jonathan aka Trust-Worthy!  
 
+## 🙏 **Gratitude**  
+None of my accomplishments are mine alone. I’m grateful to God (he's sooo good) and the incredible people who have shaped my journey. If you’re reading this, take a moment to appreciate those who’ve helped you along yours.  
+
 🌍 **Interdisciplinary problem solver | Open Source Contributor | Security Researcher**  
 
 ## 🔥 **What I Do**  
@@ -83,8 +86,5 @@ People often ask, *"Why cybersecurity and anthropology?"* My answer:
 
 ## 🎥 **Outside of Tech**  
 I love **cinematography, filmmaking, and capturing artists in their flow state.** Creativity, in any form, is a way to express our most authentic selves.  
-
-## 🙏 **Gratitude**  
-None of my accomplishments are mine alone. I’m grateful to God and the incredible people who have shaped my journey. If you’re reading this, take a moment to appreciate those who’ve helped you along yours.  
 
 💡 **Let’s build something meaningful together.**  
