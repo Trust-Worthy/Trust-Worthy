@@ -70,7 +70,3 @@ People often ask, *"Why both?"*
 I love cinematography, filmmaking, and capturing artists in their flow state. Creativity, in any form, is a way to express our most authentic selves.
 
 Let’s build something meaningful together.
-
----
-
-If you'd like, I can also suggest a custom layout for your `README.md` to make it even more crisp (e.g., using collapsible sections or horizontal rules to structure it for readability). Want that too?
