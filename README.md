@@ -1,6 +1,4 @@
-Absolutely! Here's a cleaned-up, professional version of your GitHub header—still warm, thoughtful, and personal, but without emojis or images:
 
----
 
 # Hey, I'm Jonathan — aka Trust-Worthy
 
