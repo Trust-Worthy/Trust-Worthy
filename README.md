@@ -1,70 +1,31 @@
+# Hey, I'm Trust-Worthy
 
-
-# Hey, I'm Jonathan — aka Trust-Worthy
-
-## Gratitude
-
-None of my accomplishments are mine alone. I’m deeply grateful to God and to the incredible people who’ve shaped my journey. If you’re reading this, take a moment to appreciate those who’ve helped you along yours.
-
-**Interdisciplinary problem solver | Open Source Contributor | Security Researcher**
-
-## What I Do
-
-I explore and build at the intersection of open source software, cryptography, cybersecurity, anthropology, data science, criminology, and ethical AI. The most interesting problems rarely fit neatly into one box.
-
-## Who I Work With
-
-The best, brightest, and most passionate people I meet. Every great project is built by a great team.
-
-## Why I Do It
-
-Tackling difficult, undefined problems is how I serve others with creativity. It’s challenging, meaningful, and worth doing.
-
-## Why You Should Care
-
-The world needs more diverse, interdisciplinary teams. We’ve gotten too comfortable in our own corners of academia, business, and tech. True innovation happens when different skill sets, experiences, and perspectives collide.
-
-## How You Can Help
-
-1. Find a real-world problem that affects you **and** people different from you.
-2. Gather a team of diverse, gifted individuals.
-3. Start building—whether it’s a startup, a research project, or something entirely new.
+I chose the name **Trust-Worthy** just because it was available—but it started to mean something. It’s how I want people to see me. As I studied cryptography and cybersecurity, I realized trust is at the core of secure systems. When I got into ethical and interpretable AI, the name started to feel like a mission. Now, I fully embrace it—building secure, privacy-respecting, and sustainable software. I want to protect people, not exploit them. Cybersecurity + dev isn’t just cool—it’s powerful, and it’s how I serve.
 
 ---
 
-## What I Study
+### 🛠️ Languages & Tools I Use
 
-Applied Math, Computer Science, Cybersecurity, and Anthropology
+<p align="left">
+  <img title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img title="Rust" alt="Rust" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
+  <img title="Swift" alt="Swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+  <img title="JavaScript" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img title="HTML" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img title="CSS" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img title="Bash" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  <img title="Java" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img title="Jupyter" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+</p>
 
-## Technical Proficiencies
+<br/><br/>
 
-**Languages:** Python, Java, C, Rust, Swift, Bash
-**Security & RE Tools:** Linux, IDA Pro, Wireshark, GDB, Valgrind
-**AI/ML:** PyTorch, Whisper
-**Data & GIS:** ArcGIS, Jupyter, MongoDB
-**Version Control:** Git, GitHub
-**Mobile OS:** iOS
+### 📊 GitHub Stats
 
----
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Trust-Worthy&show_icons=true&theme=transparent&count_private=true" />
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trust-Worthy&layout=compact&theme=transparent" />
 
-## Where I’m Applying My Studies
-
-Vulnerability research, secure software development, network security, and machine learning for criminology.
-
-## Future Focus Areas
-
-Post-quantum cryptography, human trafficking prevention, internet privacy, and Linux kernel development.
-
-## Why Cybersecurity & Anthropology?
-
-People often ask, *"Why both?"*
-
-> Technology doesn’t exist in a vacuum. The social sciences help contextualize cybersecurity, AI, and software within human culture and behavior. The more we understand people, the better we can build secure, ethical, and impactful technology.
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ---
-
-## Outside of Tech
-
-I love cinematography, filmmaking, and capturing artists in their flow state. Creativity, in any form, is a way to express our most authentic selves.
-
-Let’s build something meaningful together.
