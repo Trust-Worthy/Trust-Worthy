@@ -21,11 +21,9 @@ I chose the name **Trust-Worthy** just because it was available—but it started
 
 <br/><br/>
 
+
 ### 📊 GitHub Stats
 
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Trust-Worthy&show_icons=true&theme=transparent&count_private=true" />
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trust-Worthy&layout=compact&theme=transparent" />
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Trust-Worthy&theme=gotham&hide_border=true&border_radius=4&mode=weekly&card_width=480)](https://git.io/streak-stats)
 
 ---
