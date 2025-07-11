@@ -1,12 +1,35 @@
-# Hey, I'm Trust-Worthy
+````md
+<!-- README.md — TRON / MATRIX / CYBERPUNK SYSTEM INTERFACE -->
 
-I chose the name **Trust-Worthy** just because it was available—but it started to mean something. It’s how I want people to see me. As I studied cryptography and cybersecurity, I realized trust is at the core of secure systems. When I got into ethical and interpretable AI, the name started to feel like a mission. Now, I fully embrace it—building secure, privacy-respecting, and sustainable software. I want to protect people, not exploit them. Cybersecurity + dev isn’t just cool—it’s powerful, and it’s how I serve.
+```bash
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+Initializing [Trust-Worthy] node... [OK]
+Loading secure modules...        [OK]
+Establishing crypto core...      [OK]
+Linking AI ethics engine...      [OK]
+TRON-ON Protocol >>> ACTIVE
+````
+
+# `Trust-Worthy`
+
+> *“Systems are only as strong as the trust they uphold.”*
+
+I originally chose the name **Trust-Worthy** because it was available. Over time, it evolved into a philosophy—trust isn’t optional in secure systems; it’s foundational. As I deepened my work in cryptography, cybersecurity, and interpretable AI, the name came to reflect a mission: building systems that defend, rather than exploit, their users.
+
+I focus on privacy-preserving, security-conscious, and sustainable software design. My goal is to create tools that are ethically aligned, technically sound, and resilient in a hostile world. Code is power—but trust is the vector.
 
 ---
 
-### 🛠️ Languages & Tools I Use
+## 🛠 Languages & Tools
 
-<p align="left">
+```text
+[Core]        Python | C | Rust | Swift
+[Web]         JavaScript | HTML | CSS
+[Shell]       Bash
+[Data]        Java | Jupyter
+```
+
+<p align="center">
   <img title="Python" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img title="Rust" alt="Rust" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
@@ -19,16 +42,47 @@ I chose the name **Trust-Worthy** just because it was available—but it started
   <img title="Jupyter" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 </p>
 
-<br/><br/>
+---
 
+## 📊 System Metrics
 
-### 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Trust-Worthy&theme=gotham&hide_border=true&border_radius=4&mode=weekly&card_width=480)](https://git.io/streak-stats)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trust-Worthy&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trust-Worthy&theme=tokyonight)
-![Most Used Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trust-Worthy&theme=tokyonight)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trust-Worthy&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trust-Worthy&theme=tokyonight&utcOffset=8)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Trust-Worthy&theme=gotham&hide_border=true&border_radius=4&mode=weekly&card_width=480" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trust-Worthy&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trust-Worthy&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trust-Worthy&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trust-Worthy&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trust-Worthy&theme=tokyonight&utcOffset=8" />
+</p>
 
 ---
+
+## 🔐 Mission Log
+
+```bash
+[LOG] Identity-Binding Limitations: cryptographic keys bind to keys—not people.
+[LOG] Exploring: biometric anchoring, localized proofs, and social recovery systems.
+[LOG] Constraint Model: contain trust violations to known, narrow vectors.
+
+[ALT-FN] If we had designed the internet post-Diffie-Hellman, what would trust look like?
+         Could we design protocols where the impersonation surface is finite?
+         If spoofing someone required a full-body in-person mimicry, could we define trust by cost?
+
+```
+
+---
+
+## 🧩 System Summary
+
+```bash
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+  Mission:   Build trustworthy software systems.
+  Status:    Live.
+  Protocol:  TRON-ON
+  Ethics:    Embedded
+  Cryptography: Hardened
+  Attack Surface: Constrained
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+```
