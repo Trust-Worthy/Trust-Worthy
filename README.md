@@ -1,6 +1,3 @@
-````md
-<!-- README.md — TRON / MATRIX / CYBERPUNK SYSTEM INTERFACE -->
-
 ```bash
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 Initializing [Trust-Worthy] node... [OK]
@@ -10,7 +7,7 @@ Linking AI ethics engine...      [OK]
 TRON-ON Protocol >>> ACTIVE
 ````
 
-# `Trust-Worthy`
+# Hi, I'm `Trust-Worthy`
 
 > *“Systems are only as strong as the trust they uphold.”*
 
