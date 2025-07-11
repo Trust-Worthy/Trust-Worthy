@@ -4,19 +4,29 @@ Initializing [Trust-Worthy] node... [OK]
 Loading secure modules...        [OK]
 Establishing crypto core...      [OK]
 Linking AI ethics engine...      [OK]
-TRON-ON Protocol >>> ACTIVE
+TRON-ON >>> ACTIVE
 ````
 
-# Hi, I'm `Trust-Worthy`
-
-> *“Systems are only as strong as the trust they uphold.”*
+## Hi, I'm `Trust-Worthy` and I believe...
+```rust
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▒  0  1  A  X  ¥  5  #  S  D  2  %  7  F  9  E  M  Q  3  L  T  G  6  &  4  P  C  N  R  ▒
+▒  %  $  6  R  #  H  1  J  4  U  8  *  Z  B  3  9  W  O  7  V  D  @  Y  0  F  Q  L  5  ▒
+▒             *“Systems are only as strong as the trust they uphold.”*                 ▒
+▒  3  B  Y  P  5  F  %  Q  H  7  V  Z  0  D  &  L  M  J  6  2  9  X  *  C  4  W  8  O  ▒
+▒  R  S  1  N  $  7  3  G  J  6  T  F  Y  0  P  &  #  8  L  M  V  Q  E  4  X  D  Z  K  ▒
+▒  *  L  2  U  O  V  @  5  C  Y  N  9  1  M  S  3  8  G  R  W  H  7  F  Z  0  Q  J  B  ▒
+▒  8  G  K  4  P  @  T  9  N  E  $  2  V  J  R  L  W  F  M  3  Y  Q  5  0  H  Z  *  C  ▒
+▒  7  0  S  W  D  1  M  &  L  9  O  K  X  V  Y  T  P  J  G  3  Z  H  F  Q  $  8  B  N  ▒
+▒  J  X  5  L  F  G  0  R  Q  7  3  W  N  *  6  C  8  M  @  S  Y  T  D  V  P  $  E  K  ▒
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+```
 
 I originally chose the name **Trust-Worthy** because it was available. Over time, it evolved into a philosophy—trust isn’t optional in secure systems; it’s foundational. As I deepened my work in cryptography, cybersecurity, and interpretable AI, the name came to reflect a mission: building systems that defend, rather than exploit, their users.
 
 I focus on privacy-preserving, security-conscious, and sustainable software design. My goal is to create tools that are ethically aligned, technically sound, and resilient in a hostile world. Code is power—but trust is the vector.
 
 ---
-
 ## Languages & Tools
 
 ```text
