@@ -43,9 +43,7 @@ I focus on privacy-preserving, security-conscious, and sustainable software desi
 
 ## System Metrics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Trust-Worthy&theme=gotham&hide_border=true&border_radius=4&mode=weekly&card_width=480" />
-</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trust-Worthy&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trust-Worthy&theme=tokyonight" />
