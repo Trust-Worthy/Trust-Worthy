@@ -25,5 +25,10 @@ I chose the name **Trust-Worthy** just because it was available—but it started
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Trust-Worthy&theme=gotham&hide_border=true&border_radius=4&mode=weekly&card_width=480)](https://git.io/streak-stats)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trust-Worthy&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trust-Worthy&theme=tokyonight)
+![Most Used Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trust-Worthy&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trust-Worthy&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trust-Worthy&theme=tokyonight&utcOffset=8)
 
 ---
